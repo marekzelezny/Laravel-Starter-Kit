@@ -1,0 +1,12 @@
+{
+	"_source_file_exceptions": "/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/views",
+	"Not Found": "Nenalezeno",
+	"Unauthorized": "Nemáte dostatečné práva zobrazit stránku",
+	"Forbidden": "Zakázaný přístup",
+	"Page Expired": "Stránka vypršela",
+	"Too Many Requests": "Příliš mnoho požadavků",
+	"Server Error": "Chyba serveru",
+	"Service Unavailable": "Služba je nedostupná",
+	"Oh no": "Ale ne ...",
+	"Go Home": "Vrátit se na hlavní stránku"
+}
